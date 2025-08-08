@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mlv1"
+version = "0.1.0"
+description = "Metaluminosity v1: coherence, context, and guardrailed control"
+authors = [{name="Darren Ritch"}]
+requires-python = ">=3.9"
+dependencies = [
+    "numpy",
+    "scipy",
+    "matplotlib",
+    "jsonschema"
+]

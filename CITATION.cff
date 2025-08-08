@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "Metaluminosity v1 (ML v1)"
+authors:
+  - family-names: Ritch
+    given-names: Darren
+date-released: 2025-08-08
+license: MIT
+repository-code: https://example.com/ritch/mlv1
